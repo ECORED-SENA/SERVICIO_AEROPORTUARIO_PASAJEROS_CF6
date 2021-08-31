@@ -119,13 +119,44 @@
               figure
                 img(src="@/assets/template/tema-4-20.png", alt="Texto que describa la imagen")
             .col-12.col-lg-9
-              p Estos pasajeros son aquellos que por alguna razón el sistema o en algún punto de atención les colocaba una alerta con el fin de realizarle una verificación antes del abordaje, las alertas pueden llegar a ser por: cambios de silla, cobros pendientes, errores del sistema, documentación migratoria o procesos de seguridad.          
-          .row(numero="8" titulo="Verificar equipaje de mano")
+              p Verifique que no falte el ingreso de la información de documentación.          
+          .row(numero="8" titulo="Solucionar pasajeros inelegibles")
+            .col-3.d-none.d-lg-block
+              figure
+                img(src="@/assets/template/tema-4-37.svg", alt="Texto que describa la imagen")
+            .col-12.col-lg-9
+              p Estos pasajeros son aquellos que por alguna razón el sistema o en algún punto de atención les colocaba una alerta con el fin de realizarle una verificación antes del abordaje, las alertas pueden llegar a ser por: cambios de silla, cobros pendientes, errores del sistema, documentación migratoria o procesos de seguridad.
+          .row(numero="9" titulo="Verificar equipaje de mano")
             .col-3.d-none.d-lg-block
               figure
                 img(src="@/assets/template/tema-4-21.png", alt="Texto que describa la imagen")
             .col-12.col-lg-9
-              p Identificando coches, equipajes de mano y equipos ortopédicos que se requieran enviar por bodega.
+              p Identificando coches, equipajes de mano y equipos ortopédicos que se requieran envíar por bodega.
+          .row(numero="10" titulo="Verificar documento de información")
+            .col-3.d-none.d-lg-block
+              figure
+                img(src="@/assets/template/tema-4-33.svg", alt="Texto que describa la imagen")
+            .col-12.col-lg-9
+              p Revise el de los tripulantes según lo indicado en el General Declaration.
+
+          .row(numero="11" titulo="Realizar la entrega de documentación")
+            .col-3.d-none.d-lg-block
+              figure
+                img(src="@/assets/template/tema-4-34.svg", alt="Texto que describa la imagen")
+            .col-12.col-lg-9
+              p Entregue la respectiva información del vuelo a la tripulación atentiendo el General Declaration.
+          .row(numero="12" titulo="Realizar briefing")
+            .col-3.d-none.d-lg-block
+              figure
+                img(src="@/assets/template/tema-4-35.svg", alt="Texto que describa la imagen")
+            .col-12.col-lg-9
+              p Se realiza con la tripulación y se informa novedades del vuelo.
+          .row(numero="13" titulo="Realice los cambios de sillas")
+            .col-3.d-none.d-lg-block
+              figure
+                img(src="@/assets/template/tema-4-36.svg", alt="Texto que describa la imagen")
+            .col-12.col-lg-9
+              p Se cambian con el fin de dar cumplimiento a las normas y políticas de distribución de pasajeros por equipos.
     figure.mt-5
       img(src="@/assets/template/tema-4-22.png", alt="Texto que describa la imagen")
     p.mt-5 Posterior al prevuelo viene el proceso de abordaje, a continuación se verá:
@@ -201,7 +232,7 @@
         .cajon.color-secundario.p-4.mb-4.py-4.px-4.bg-amarillo-50
           .row        
             .h4.mb-0 Saludo
-            p.mb-0.text-small Buenos Días, tardes, noches; este es un anuncio informativo de su vuelo SENA001 con destino a Madrid y sus conexiones. Yo soy Claudia Ávila y junto con mi compañero Lida Guanumen; estamos en la sala número S30 para ayudarlos en lo que necesiten. 
+            p.mb-0.text-small Buenos Días, tardes, noches; este es un anuncio informativo de su vuelo SENA001 con destino a Madrid y sus conexiones. Yo soy Claudia Ávila y junto con mi compañera Lida Guanumen; estamos en la sala número S30 para ayudarlos en lo que necesiten. 
     .row
       .col-8.offset-2
         .cajon.color-secundario.p-4.mb-4.py-4.px-4.bg-amarillo-35
@@ -220,7 +251,7 @@
         .cajon.color-secundario.p-4.mb-4.py-4.px-4.bg-amarillo-10
           .row        
             .h4.mb-0 Ya finalizando el proceso de abordaje se deben realizar anuncios de finalización con el fin de notificar a aquellos pasajeros que aún no hayan abordado el vuelo
-            p.mb-0.text-small Último llamado para abordar el vuelo SENA001 con destino a la ciudad de Madrid si aún se encuentra en sala de abordaje con bienvenidos a abordar de inmediato por la puerta de embarque número S30.
+            p.mb-0.text-small Último llamado para abordar el vuelo SENA001 con destino a la ciudad de Madrid si aún se encuentra en sala de abordaje son bienvenidos a abordar de inmediato por la puerta de embarque número S30.
             p.mt-3.mb-0.text-small #[strong Nota:] Tener en cuenta que los anuncios de abordaje pueden variar en forma según la empresa y su filosofía de servicio.
 </template>
 

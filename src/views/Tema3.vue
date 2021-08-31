@@ -9,8 +9,8 @@
       h1 Aceptación del pasajero 
     .row.mt-4
       .col-12.col-lg-8
-        p Durante el proceso de r s es necesario saber que toda persona que desee tomar un vuelo ya sea doméstica (dentro del país) o internacional, el pasajero es responsable de informarse referente a la documentación necesaria para tomar dicho vuelo; más es responsabilidad del Agente de Servicio al pasajero validar que cumpla con la misma para iniciar el proceso de registro.
-        p.mt-3 Las aerolíneas emplean diferentes tipos de software para realizar el proceso de registro de pasajeros, el cual debe tener estándares de seguridad bastante estrictos y por lo tanto a cada colaborador le es entregado un usuario y password, este es de carácter personal e intransferible y no debe ser compartido con terceros, ya que hace parte de los métodos recomendados entregados por la OACI en el anexo 17 para mantener y preservar la seguridad aérea
+        p Durante el proceso de registro de pasajeros es necesario saber que toda persona que desee tomar un vuelo ya sea doméstica (dentro del país) o internacional, el pasajero es responsable de informarse referente a la documentación necesaria para tomar dicho vuelo; más es responsabilidad del Agente de Servicio al pasajero validar que cumpla con la misma para iniciar el proceso de registro.
+        p.mt-3 Las aerolíneas emplean diferentes tipos de <i>software</i> para realizar el proceso de registro de pasajeros, el cual debe tener estándares de seguridad bastante estrictos y por lo tanto a cada colaborador le es entregado un usuario y password, este es de carácter personal e intransferible y no debe ser compartido con terceros, ya que hace parte de los métodos recomendados entregados por la OACI en el anexo 17 para mantener y preservar la seguridad aérea
       .col-4.offset-4.offset-lg-0.align-self-center
         figure
           img(src="@/assets/template/tema-3-1.svg", alt="Texto que describa la imagen")
@@ -204,7 +204,7 @@
         figure.mt-4
           img(src="@/assets/template/tema-3-20.png", alt="Texto que describa la imagen").w-50.margin-0-auto.p-3
         .h4.mt-4 EMD (Electronic Miscellaneous Document)
-        p.mt-4 Trata de un documento valor que expide la compañía por un valor especifico el cual puede emplear el cliente en productos de la misma empresa.
+        p.mt-4 Trata de un documento valor que expide la compañía por un valor específico el cual puede emplear el cliente en productos de la misma empresa.
       .col-4.bg-amarillo-mas-oscuro.text-center
         figure.mt-4
           img(src="@/assets/template/tema-3-21.png", alt="Texto que describa la imagen").w-50.margin-0-auto.p-3

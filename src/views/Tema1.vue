@@ -750,7 +750,7 @@
     .h4.mt-5 Clasificación
     p.mt-5 Las mercancías peligrosas se clasifican en:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-amarillo")
-      .row(titulo="Clase 1: Explosivos")
+      .row(titulo="Clase 1: explosivos")
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-87.png", alt="Texto que describa la imagen")
@@ -774,7 +774,7 @@
             li.mt-3 
               i.fas.fa-angle-right
               | Sustancia extremadamente insensible que no presenta riesgo de	explosión masiva. 
-      div(titulo="Clase 2: Gas").row
+      div(titulo="Clase 2: gas").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-88.png", alt="Texto que describa la imagen")
@@ -789,14 +789,14 @@
             li.mt-3 
               i.fas.fa-angle-right
               | Gas tóxico.
-      div(titulo="Clase 3: Líquidos inflamables").row
+      div(titulo="Clase 3: líquidos inflamables").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-89.png", alt="Texto que describa la imagen")
         .col-12.col-lg-9
           ul.lista-ul
             p Algunos se derivan del petróleo  otros de procesos naturales o industriales, algunas moléculas se mueven con una velocidad que puede crear vapores y llegar al espacio aéreo, estos al mezclarse con el aire dentro de los  límites explosivos para el material particular se quemará o explotará al prenderse lo cual atenta contra la seguridad del vuelo.
-      div(titulo="Clase 4: Sólidos inflamables").row
+      div(titulo="Clase 4: sólidos inflamables").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-90.png", alt="Texto que describa la imagen")
@@ -811,7 +811,7 @@
             li 
               i.fas.fa-angle-right
               | Sustancia que en contacto con el agua emite gases inflamables. 
-      div(titulo="Clase 5: Sustancias comburentes y peróxidos orgánicos ").row
+      div(titulo="Clase 5: sustancias comburentes y peróxidos orgánicos ").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-91.png", alt="Texto que describa la imagen")
@@ -823,7 +823,7 @@
             li 
               i.fas.fa-angle-right
               | Peróxidos orgánicos
-      div(titulo="Clase 6: Sustancias tóxicas e infecciosas ").row
+      div(titulo="Clase 6: sustancias tóxicas e infecciosas ").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-92.png", alt="Texto que describa la imagen")
@@ -835,19 +835,19 @@
             li 
               i.fas.fa-angle-right
               | Sustancias infecciosas. 
-      div(titulo="Clase 7: Material radioactivo").row
+      div(titulo="Clase 7: material radioactivo").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-93.png", alt="Texto que describa la imagen")
         .col-12.col-lg-9
           p Contienen átomos que cambian su estructura de forma libre cada cierto periodo de tiempo, esto emite una radiación que causa radiación ionizante de cambio químico o biológico.  Esta es peligrosa para el ser humano, dependiendo de la radiación, la dosis,  y la duración de la explosión. Para este caso existen embalajes que son seguros de manipular y transportar ya que este mismo actúa como embalaje. 
-      div(titulo="Clase 8: Corrosivos").row
+      div(titulo="Clase 8: corrosivos").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-94.png", alt="Texto que describa la imagen")
         .col-12.col-lg-9
           p Puedes ser ácidos o alcalinos, estos son corrosivos para la piel, los ojos y las membranas mucosas. Los Corrosivos se clasifican en grupos de embalajes dependiendo de su capacidad para destruir.
-      div(titulo="Clase 9: Mercancías peligrosas diversas").row
+      div(titulo="Clase 9: mercancías peligrosas diversas").row
         .col-3.d-none.d-lg-block
           figure
             img(src="@/assets/template/tema-1-95.png", alt="Texto que describa la imagen")
@@ -899,7 +899,7 @@ export default {
       {
         titulo: 'Visa de Turismo',
         texto:
-          'Como su nombre lo indica es exclusiva para realizar actividades relacionadas con turismo, por los tanto no es permitido hacer negocios o realizar una labor remunerada, el país que otorgue la visa será el encargado de indicarle la duración de este.',
+          'Como su nombre lo indica es exclusiva para realizar actividades relacionadas con turismo, por lo tanto no es permitido hacer negocios o realizar una labor remunerada, el país que otorgue la visa será el encargado de indicarle la duración de este.',
         imagen: require('@/assets/template/tema-1-58.png'),
       },
       {

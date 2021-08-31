@@ -52,7 +52,7 @@
               figure
                 img(src="@/assets/template/tema-2-6.svg", alt="Texto que describa la imagen")
             .col-9
-              p.text-small 
+              p.text-small El valor se genera según la franquicia de equipaje de la aerolínea.
           .row(numero="5" titulo="Transporte de Mascotas en cabina")
             .col-1.mx-3
               figure

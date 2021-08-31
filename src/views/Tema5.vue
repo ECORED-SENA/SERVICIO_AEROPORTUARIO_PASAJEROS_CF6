@@ -37,7 +37,7 @@
         | Clientes que adquieran cabina ejecutiva o de primera clase para las aerolíneas que manejan esta cabina.
       li 
         i.fas.fa-angle-right
-        | Socio elite del programa de lealtad de la aerolínea o de la alianza si esta está dentro de alguna.
+        | Socio elite del programa de lealtad de la aerolínea o de la alianza si esta está, dentro de alguna.
       li 
         i.fas.fa-angle-right
         | Acompañante de un socio elite.
@@ -66,7 +66,7 @@
                 .lista-ol--cuadro__vineta
                   span 1
                 .col-12
-                  p.mb-0 Solicitud de ascensos de cortesía.
+                  p.mb-0 #[strong Solicitud de ascensos de cortesía.]
       .col-10.col-lg-5.mx-4.rounded-20.borde-morado-4
         .row.py-4
           .col-4.align-self-center
@@ -78,7 +78,7 @@
                 .lista-ol--cuadro__vineta
                   span 7
                 .col-12
-                  p.mb-0 Entretenimiento.
+                  p.mb-0 #[strong Entretenimiento.]
     .row.mt-5
       .col-10.col-lg-5.offset-1.rounded-20.borde-morado-4
         .row.py-4
@@ -91,7 +91,7 @@
                 .lista-ol--cuadro__vineta
                   span 2
                 .col-12
-                  p.mb-0 Cambios de vuelo.
+                  p.mb-0 #[strong Cambios de vuelo.]
       .col-10.col-lg-5.mx-4.rounded-20.borde-morado-4
         .row.py-4
           .col-4.align-self-center
@@ -103,7 +103,7 @@
                 .lista-ol--cuadro__vineta
                   span 8
                 .col-12
-                  p.mb-0 Snacks.
+                  p.mb-0 #[strong Snacks.]
     .row.mt-5
       .col-10.col-lg-5.offset-1.rounded-20.borde-morado-4
         .row.py-4
@@ -116,7 +116,7 @@
                 .lista-ol--cuadro__vineta
                   span 3
                 .col-12
-                  p.mb-0 Sala de espera exclusiva.
+                  p.mb-0 #[strong Sala de espera exclusiva.]
       .col-10.col-lg-5.mx-4.rounded-20.borde-morado-4
         .row.py-4
           .col-4.align-self-center
@@ -128,7 +128,7 @@
                 .lista-ol--cuadro__vineta
                   span 9
                 .col-12
-                  p.mb-0 Tecnología. 
+                  p.mb-0 #[strong Tecnología.]
     .row.mt-5
       .col-10.col-lg-5.offset-1.rounded-20.borde-morado-4
         .row.py-4
@@ -141,7 +141,7 @@
                 .lista-ol--cuadro__vineta
                   span 4
                 .col-12
-                  p.mb-0 Bebidas nacionales e Internacionales.
+                  p.mb-0 #[strong Bebidas nacionales e Internacionales.]
       .col-10.col-lg-5.mx-4.rounded-20.borde-morado-4
         .row.py-4
           .col-4.align-self-center
@@ -153,7 +153,7 @@
                 .lista-ol--cuadro__vineta
                   span 10
                 .col-12
-                  p.mb-0 Zonas familiares.
+                  p.mb-0 #[strong Zonas familiares.]
     .row.mt-5
       .col-10.col-lg-5.offset-1.rounded-20.borde-morado-4
         .row.py-4
@@ -166,7 +166,7 @@
                 .lista-ol--cuadro__vineta
                   span 5
                 .col-12
-                  p.mb-0 Platillos y pasa bocas.
+                  p.mb-0 #[strong Platillos y pasa bocas.]
       .col-10.col-lg-5.mx-4.rounded-20.borde-morado-4
         .row.py-4
           .col-4.align-self-center
@@ -178,7 +178,7 @@
                 .lista-ol--cuadro__vineta
                   span 11
                 .col-12
-                  p.mb-0 Salas de reuniones.
+                  p.mb-0 #[strong Salas de reuniones.]
     .row.mt-5
       .col-10.col-lg-5.offset-1.rounded-20.borde-morado-4
         .row.py-4
@@ -191,7 +191,7 @@
                 .lista-ol--cuadro__vineta
                   span 6
                 .col-12
-                  p.mb-0 Prensa.
+                  p.mb-0 #[strong Prensa.]
     .row.mt-5.text-center
       .h4 Sala VIP Aeropuerto Internacional Mourian de Qatar Airways, en Doha (DOH)
     figure.mt-5
