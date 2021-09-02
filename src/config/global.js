@@ -60,7 +60,7 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '2.1',
             titulo: 'Concepto, características y aplicación',
             hash: 't_2_1',
