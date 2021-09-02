@@ -66,7 +66,7 @@
                 .lista-ol--cuadro__vineta
                   span 1
                 .col-12
-                  p.mb-0 #[strong Solicitud de ascensos de cortesía.]
+                  p.mb-0 #[strong Solicitud de ascensos] <br> #[strong de cortesía.]
       .col-10.col-lg-5.mx-4.rounded-20.borde-morado-4
         .row.py-4
           .col-4.align-self-center
