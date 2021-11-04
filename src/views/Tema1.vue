@@ -84,7 +84,7 @@
           p.mb-0 En el caso de vuelos internacionales el único documento válido para abordar una aeronave es el #[strong pasaporte], el cual es un documento internacional expedido por las autoridades de su respectivo país que acredita un permiso u autorización legal para que salga o ingrese del mismo. A continuación se ve lo referente al tema:
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/YiuOAjwwkFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mt-5 Aunque el pasaporte es el documento requerido para circular de un país a otro, existen países a los cuales se puede ingresar con el documento nacional de identificación DNI o cédula en caso de los colombianos y esto es gracias a los tratados internacionales.
     .row.mt-5
       .col-12.borde-gris.rounded-20.p-4

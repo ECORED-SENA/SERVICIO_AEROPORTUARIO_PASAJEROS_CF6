@@ -70,9 +70,6 @@
       .col-10.offset-1
         figure
           img(src="@/assets/template/tema-3-8.png", alt="Texto que describa la imagen")
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .titulo-segundo.mt-5
       #t_3_2.h4 3.2  Proceso de registro de pasajeros
     figure.mt-5
