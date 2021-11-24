@@ -166,7 +166,7 @@
                 .lista-ol--cuadro__vineta
                   span 5
                 .col-12
-                  p.mb-0 #[strong Platillos y pasa bocas.]
+                  p.mb-0 #[strong Platillos y pasabocas.]
       .col-10.col-lg-5.mx-4.rounded-20.borde-morado-4
         .row.py-4
           .col-4.align-self-center

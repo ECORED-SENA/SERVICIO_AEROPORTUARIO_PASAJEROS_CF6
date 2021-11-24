@@ -131,7 +131,7 @@
               figure
                 img(src="@/assets/template/tema-4-21.png", alt="Texto que describa la imagen")
             .col-12.col-lg-9
-              p Identificando coches, equipajes de mano y equipos ortopédicos que se requieran envíar por bodega.
+              p Identificando coches, equipajes de mano y equipos ortopédicos que se requieran enviar por bodega.
           .row(numero="10" titulo="Verificar documento de información")
             .col-3.d-none.d-lg-block
               figure
@@ -144,7 +144,7 @@
               figure
                 img(src="@/assets/template/tema-4-34.svg", alt="Texto que describa la imagen")
             .col-12.col-lg-9
-              p Entregue la respectiva información del vuelo a la tripulación atentiendo el General Declaration.
+              p Entregue la respectiva información del vuelo a la tripulación atendiendo el General Declaration.
           .row(numero="12" titulo="Realizar briefing")
             .col-3.d-none.d-lg-block
               figure

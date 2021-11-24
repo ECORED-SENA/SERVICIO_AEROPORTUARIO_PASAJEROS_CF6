@@ -31,7 +31,7 @@
           img(src="@/assets/template/tema-3-3.png", alt="Texto que describa la imagen")
     .row.mt-5
       .col-12.col-lg-10
-        p Para iniciar debe colocar el usuario y contraseña, entregado por el empleador (recuerde cambiar la clave de acceso periódicamente) y allí es empezará a descubrir las diferentes aplicabilidades que tiene este sistema.
+        p Para iniciar debe colocar el usuario y contraseña, entregado por el empleador (recuerde cambiar la clave de acceso periódicamente) y allí empezará a descubrir las diferentes aplicabilidades que tiene este sistema.
         p.mt-3 Ya estando en el sistema, se mostrarán 5 viñetas que son desplegables y le permitirá ver el menú de cada una de ellas iniciando por Applications, En este módulo encontrará el 100 % de las actividades que se realizan para la atención de pasajeros en el aeropuerto y al desplegar su menú cada uno de los procesos junto con la entrada rápida en el teclado.
       .col-4.col-lg-2.offset-4.offset-lg-0.align-self-center
         figure
@@ -98,10 +98,10 @@
           td.borde-gris-1 ¿Señor (Apellido) Acumula millas con XX (aerolínea)?
         tr.bg-blanco
           th.borde-gris-1(rowspan='1') Tiquete electrónico
-          td.borde-gris-1 De acuerdo con el destino verifico si tiene tiquete de regreso o salida del país, verificar su nacionalidad. Recuerda verificar en el timatic que necesita el pasajero
+          td.borde-gris-1 De acuerdo con el destino verifico si tiene tiquete de regreso o salida del país, verificar su nacionalidad. Recuerda verificar en el timatic qué necesita el pasajero
         tr.bg-gris
           th.borde-gris-1(rowspan='1') Impuestos
-          td.borde-gris-1 Verifico CO y DG (fecha de entrada a COL) si aplica cobro realizar el cobro por Fee Manager, sino aplica colocar comentario por Add Service EXTO nacionalidad y fecha de ingreso a CO
+          td.borde-gris-1 Verifico CO y DG (fecha de entrada a COL) si aplica cobro realizar el cobro por Fee Manager, si no aplica colocar comentario por Add Service EXTO nacionalidad y fecha de ingreso a CO
         tr.bg-blanco
           th.borde-gris-1(rowspan='2') Equipaje
           td.borde-gris-1 ¿Señor (Apellido), lleva equipaje?
@@ -118,7 +118,7 @@
           td.borde-gris-1 ¿Señor (Apellido) necesita que le colabore en algo más?
         tr.bg-blanco
           th.borde-gris-1(rowspan='1') Entrega de documentos
-          td.borde-gris-1 Señor (Apellido) le devuelvo su documento (nombre el documento pasaporte, cedula, identificación nacional, etc.)
+          td.borde-gris-1 Señor (Apellido) le devuelvo su documento (nombre el documento pasaporte, cédula, identificación nacional, etc.)
         tr.bg-gris
           th.borde-gris-1(rowspan='1') Entrega de pasabordo
           td.borde-gris-1 Señor (Apellido) (doy las indicaciones) No. De Vuelo, hora en la que debe estar el pasajero en sala, hora de salida del vuelo, sala de embarque, silla asignada, grupo, puerta de embarque.

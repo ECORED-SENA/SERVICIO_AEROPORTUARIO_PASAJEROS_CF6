@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 	Componentes electrónicos
+      h1 	Procedimientos de seguridad
     figure.mt-4
       img(src="@/assets/template/tema-1-1.png", alt="Texto que describa la imagen")
     p.mt-5 La seguridad tiene como objetivo la prevención de actos de interferencia ilícita, evitando que viajen en las aeronaves objetos o personas que puedan constituir una amenaza para el vuelo, es por esto que la OACI (Organización de Aviación Civil Internacional) bajo el Anexo 17 del convenio de Chicago establece las normas y métodos recomendados para la industria y regula el tránsito aéreo internacional, estableciendo procedimientos tales como:
@@ -154,7 +154,7 @@
             .lista-ol--cuadro__vineta
               span 3
             .col-6
-              p.mb-0 Republica Checa
+              p.mb-0 República Checa
             .col-1.align-self-center
               figure
                 img(src="@/assets/template/tema-1-16.svg", alt="Texto que describa la imagen")
@@ -903,7 +903,7 @@ export default {
         imagen: require('@/assets/template/tema-1-58.png'),
       },
       {
-        titulo: 'Visa Transito',
+        titulo: 'Visa Tránsito',
         texto:
           'Se expide específicamente para realizar escalas de máximo tres (3) días entre un país y otro.',
         imagen: require('@/assets/template/tema-1-59.png'),
